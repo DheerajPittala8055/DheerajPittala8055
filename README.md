@@ -12,7 +12,7 @@
 ---
 
 ## 🏆 About Me  
-🔹 **Data Analyst | Data Engineer | DevOps Enthusiast**  
+🔹 **Data Analyst / Engineer | DevOps Professional**  
 🔹 Passionate about transforming **raw data** into **meaningful insights**  
 🔹 Experienced in **SQL, Python, Power BI, ETL, Big Data, and Cloud Computing (Azure, Google)**  
 🔹 Strong problem-solver, always optimizing workflows and automating processes  
