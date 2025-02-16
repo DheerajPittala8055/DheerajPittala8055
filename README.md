@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center">I'm Dheeraj Pittala 🤝</h1>  
+<h1 align="center">I'm Dheeraj Pittala 🤝</h1>
 
 ### **Thriving at the intersection of Data Analytics, Engineering, and Cloud Technologies, leveraging my skills to create impactful solutions where data fuels insights, and technology powers efficiency!**
 ---
@@ -23,17 +23,10 @@
 ---
 
 ## 🛠️ **What I’m Up To**
-- 🔭 **Building dashboards, developing predictive models, and an AI chatbot** for our ** UNT Transportation Department website**  
+- 🔭 **Building dashboards, developing predictive models, and an AI chatbot** for our **UNT Transportation Department website**  
 - 🌱 **Exploring Generative AI** and its applications in real-world data  
 - 👯 **Seeking collaborations** in **Data Engineering, Data Science, and ML projects**  
 - 🤔 Open to **research work & innovative projects** in the data space  
-
----
-
-## 🎯 **What You Can Ask Me About**
-💡 **Data Science & Analytics** – Insights, best practices, and optimization strategies  
-🏋️ **Fitness** – Because a strong **body** enhances a strong **mind**  
-💰 **Finance & Management** – Applying analytics to life beyond data  
 
 ---
 
@@ -58,23 +51,28 @@
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)
 
 ---
-
-## 📈 **GitHub Stats**
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajPittala8055&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPittala8055&layout=compact&theme=radical)  
+## 🎯 **What You Can Ask Me About**
+💡 **Data Science & Analytics** – Insights, best practices, and optimization strategies  
+🏋️ **Fitness** – Because a strong **body** enhances a strong **mind**  
+💰 **Finance & Management** – Applying analytics to life beyond data  
 
 ---
-
 ## 🔗 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-pittala/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DheerajPittala8055) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajkmp8055@gmail.com)
-
-
-😄 **Pronouns:** He/Him  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DheerajPittala8055) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daring.dheeraj/)
+ 
 ⚡ **Fun Fact:** I optimize SQL queries faster than I optimize my sleep schedule. 😂  
 
 ---
 
 ⭐ **If you find my work interesting, feel free to fork, collaborate, or drop a message!** 🚀
+
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DheerajPittala8055&show_icons=true&theme=radical" alt="Dheeraj's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPittala8055&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
+---
